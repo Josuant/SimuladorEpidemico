@@ -7,7 +7,7 @@ Artículo: http://sedici.unlp.edu.ar/handle/10915/93778
 
 ## Compatibilidad  
 
-SO:
+SO:  
 Windows 10/8/7  x64, x32  
 GNU/Linux x64, x32
 
