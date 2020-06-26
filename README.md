@@ -18,3 +18,4 @@ Java 8
 Escuela Superior de Cómputo    
 José Antonio Álvarez Nava  
 alvarez.nava.antonio@gmail.com
+jalvarezn1400@alumno.ipn.mx
