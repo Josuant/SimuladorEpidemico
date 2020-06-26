@@ -11,7 +11,7 @@ SO:
 Windows 10/8/7  x64, x32  
 GNU/Linux x64, x32
 
-Java SE 14 o superior.
+Java 8
 
 ## Contacto  
 **Instituto Politécnico Nacional**  
